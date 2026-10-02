@@ -13,7 +13,7 @@
             <span class="event-category">Community</span>
           </div>
           <h3>Community Gathering {{ i }}</h3>
-          <p class="event-loc">📍 Main Auditorium, City Center</p>
+          <p class="event-loc">Main Auditorium, City Center</p>
           <p class="event-desc">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at velit vel magna
             interdum scelerisque.
